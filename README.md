@@ -8,5 +8,5 @@
 * This is for checking star sign
 - This is for checking hypen
 -- This is for checking two hypen  
-Expand:
+Expand: ⌃⇧⌘→
 Shrink:
